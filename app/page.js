@@ -21,7 +21,7 @@ export default function Home() {
               alt="Kalish Logo"
               className={styles.kalishLogo}
               width={auto}
-              height={150}
+              height={auto}
               priority
             />
           </a>
