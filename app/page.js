@@ -17,7 +17,7 @@ export default function Home() {
           >
             By{' '}
             <Image
-              src="/@kalish.png
+              src="/@kalish.svg
               alt="Kalish Logo"
             className={styles.kalishlogo}
             width={300}
