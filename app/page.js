@@ -20,8 +20,8 @@ export default function Home() {
               src="/@kalish.png"
               alt="Kalish Logo"
               className={styles.kalishLogo}
-              width={100}
-              height={24}
+              width={auto}
+              height={150}
               priority
             />
           </a>
