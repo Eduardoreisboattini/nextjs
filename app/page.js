@@ -20,7 +20,7 @@ export default function Home() {
               src="/@kalish.svg
               alt="Kalish Logo"
               className={styles.kalishLogo}
-              width={auto}
+              width={40}
               height={auto}
               priority
             />
