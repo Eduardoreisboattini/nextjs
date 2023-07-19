@@ -17,12 +17,12 @@ export default function Home() {
           >
             By{' '}
             <Image
-              src="/@kalish.svg
+              src="/@kalish.png
               alt="Kalish Logo"
-              className={styles.kalishlogo}
-              width={60}
-              height={60}
-              priority
+            className={styles.kalishlogo}
+            width={300}
+            height={300}
+            priority
             />
           </a>
         </div>
@@ -91,5 +91,3 @@ export default function Home() {
         </a>
       </div>
     </main>
-  )
-}
